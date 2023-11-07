@@ -70,7 +70,7 @@ class Parallelepipede(Rectangle):
 
 
 p = Point(3, 4)
-print(p)  # Affiche : (3, 4)
+print(p)
 
 r = Rectangle(0, 0, 5, 3)
 print(r)
